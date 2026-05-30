@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> We'll connect tomorrow @12PM.... </h1>
+         <h1> Monday We'll start Docker.... </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
